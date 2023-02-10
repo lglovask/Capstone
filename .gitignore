@@ -5,6 +5,7 @@ Saved
 .vscode
 .vs
 *.VC.db
+**/.DS_Store
 *.opensdf
 *.opendb
 *.sdf
