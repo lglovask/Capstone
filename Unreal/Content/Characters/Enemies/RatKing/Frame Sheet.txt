@@ -1,0 +1,4 @@
+Idle Anim - Frames 0 - 30
+Bite Anim - Frames 100 - 130
+Stomp Anim - Frames 200 - 234
+Howl Anim - Frames 300 - 330
